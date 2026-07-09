@@ -112,7 +112,7 @@ Response `201 Created`:
   "customerId": "3f2a9e10-8b4d-4c1a-9b3e-1a2b3c4d5e6f",
   "url": "https://api.atlascomercial.com/hooks/orders",
   "statuses": ["SHIPPED", "DELIVERED"],
-  "secret": "whsec_7f3a1c9e2b4d6f8a0c1e3b5d7f9a1c3e",
+  "secret": "whsec_CHANGE_HERE",
   "active": true,
   "createdAt": "2026-07-09T14:32:00.000Z"
 }
@@ -191,7 +191,7 @@ Response `200 OK`:
 ```json
 {
   "id": "b1c2d3e4-f5a6-4b7c-8d9e-0f1a2b3c4d5e",
-  "secret": "whsec_1a3c5e7f9b1d3f5a7c9e1b3d5f7a9c1e",
+  "secret": "whsec_CHANGE_HERE",
   "previousSecretValidUntil": "2026-07-10T14:32:00.000Z"
 }
 ```
